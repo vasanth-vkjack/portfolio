@@ -10,17 +10,17 @@ export const Projects = () => {
             {
                 image: ecom_img,
                 description: 'A Ecommerce Website. Built with MERN Stack.',
-                link: '#'
+                link: 'https://github.com/vasanth-vkjack/ecommerce.git'
             },
             {
                 image: dgm_img,
                 description: 'Digital Marketing website, Built with React',
-                link: '#'
+                link: 'https://github.com/vasanth-vkjack/dgmount.git'
             },
             {
                 image: kalvi_img,
                 description: 'IT Training Insitiute website with dynamic route, Built with React',
-                link: '#'
+                link: 'https://github.com/vasanth-vkjack/portfolio.git'
             }
         ]
     }
