@@ -1,7 +1,7 @@
 import React from "react";
 import ecom_img from "../Assets/ecom.png";
 import kalvi_img from "../Assets/kalvi.png";
-import dgm_img from "../Assets/dgm.png";
+import todo_img from "../Assets/todo.png";
 
 export const Projects = () => {
   const config = {
@@ -12,7 +12,7 @@ export const Projects = () => {
         link: "https://ecommercefrntend.netlify.app",
       },
       {
-        image: dgm_img,
+        image: todo_img,
         description: "Todo-App",
         link: "https://todoapp9025.netlify.app",
       },
