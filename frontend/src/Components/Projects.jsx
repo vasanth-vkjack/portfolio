@@ -1,7 +1,7 @@
 import React from "react";
 import ecom_img from "../Assets/ecom.png";
 import kalvi_img from "../Assets/kalvi.png";
-import todo_img from "../Assets/todo.png";
+import todo_img from "../Assets/to_do.png";
 
 export const Projects = () => {
   const config = {
